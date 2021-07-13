@@ -5,4 +5,4 @@
  -Permite gestionar creación y acceso a los datos de los clientes de manera veloz.
  -Creación de comandas e impresión de datos eficiente, intuitiva y accesible. 
  -Permanencia de la información de las comandas ordenadas por tiempo de recogida para facilitar el trabajo del dependiente.
- -Capacidad de hacer una copia de seguridad de los datos de los clientes.
+ -Capacidad de hacer una copia de seguridad de los datos de los clientes pulsando un botón.
