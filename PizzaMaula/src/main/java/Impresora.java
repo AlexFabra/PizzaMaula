@@ -17,7 +17,7 @@ public class Impresora{
         }
 
         java.awt.Desktop desktop = java.awt.Desktop.getDesktop();
-        java.io.File ficheroHecho = new java.io.File("C:/Users/Public/Documents/fichero.txt");
+        java.io.File ficheroHecho = new java.io.File("C:/Users/Public/Documents/impresion.txt");
         if (desktop.isSupported(Desktop.Action.PRINT)){
             try {
                 desktop.print(ficheroHecho);
