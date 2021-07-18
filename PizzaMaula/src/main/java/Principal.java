@@ -149,7 +149,7 @@ public class Principal extends JFrame implements ActionListener{
       comboPizzes.setForeground(new Color(0, 0, 0));
       add(comboPizzes);
       comboPizzes = bd.addPizzes(comboPizzes);
-
+//Si no està conectat a la base de dades:
 //      comboPizzes.addItem("Margarita");
 //      comboPizzes.addItem("Pernil dolç i bolets");
 //      comboPizzes.addItem("4 formatges");
@@ -251,32 +251,6 @@ public class Principal extends JFrame implements ActionListener{
       labelMostraErrors.setForeground(new Color(255, 255, 255));
       add(labelMostraErrors);
 
-//      textareaComanda = new JTextArea();
-//      textareaComanda.setEditable(true);
-//      textareaComanda.setBackground(new Color(255, 255, 255));
-//      textareaComanda.setFont(new Font("Andale Mono", 1, SIZELETRA));
-//      textareaComanda.setForeground(new Color(0, 0, 0));
-//      textareaComanda.setText(""); //possibilitat de posar un text per defecte.
-//      scrollpane1 = new JScrollPane(textareaComanda);
-//      scrollpane1.setBounds(220,320,385,400);
-//      add(scrollpane1);
-//
-//      botoImprimirComanda = new JButton("Imprimeix");
-//      botoImprimirComanda.setBounds(450,735,150,25);
-//      botoImprimirComanda.setBackground(new Color(255,127,0));
-//      botoImprimirComanda.setFont(new Font("Andale Mono", 1, SIZELETRA));
-//      botoImprimirComanda.setForeground(new Color(51,0,51));
-//      botoImprimirComanda.addActionListener(this);
-//      add(botoImprimirComanda);
-//
-//      botoEsborrarComanda = new JButton ("Esborra comanda");
-//      botoEsborrarComanda.setBounds(220,735,200,25);
-//      botoEsborrarComanda.setBackground(new Color(255,127,0));
-//      botoEsborrarComanda.setFont(new Font("Andale Mono", 1, SIZELETRA));
-//      botoEsborrarComanda.setForeground(new Color(51,0,51));
-//      botoEsborrarComanda.addActionListener(this);
-//      add(botoEsborrarComanda);
-
     textareaComanda = new JTextArea();
     textareaComanda.setEditable(true);
     textareaComanda.setBackground(new Color(255, 255, 255));
@@ -303,19 +277,6 @@ public class Principal extends JFrame implements ActionListener{
     botoEsborrarComanda.addActionListener(this);
     add(botoEsborrarComanda);
 
-//      botoAfegirHora = new JButton ("O");
-//      botoAfegirHora.setBounds(125,455,50,25);
-//      botoAfegirHora.setBackground(new Color(255,127,0));
-//      botoAfegirHora.setFont(new Font("Andale Mono", 1, SIZELETRA));
-//      botoAfegirHora.setForeground(new Color(51,0,51));
-//      botoAfegirHora.addActionListener(this);
-//      add(botoAfegirHora);
-
-//      labelFooter = new JLabel("2021 PizzaMaula | Tots els drets reservats | Desenvolupat per Alejandro Fabra");
-//      labelFooter.setBounds(100,550,500,30);
-//      labelFooter.setFont(new Font("Andale Mono", 1, 12));
-//      labelFooter.setForeground(new Color(255, 255, 255));
-//      add(labelFooter);
   }
 
   public void actionPerformed(ActionEvent e) {
