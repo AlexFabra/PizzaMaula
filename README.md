@@ -8,3 +8,10 @@
  -Capacidad de hacer una copia de seguridad de los datos de los clientes pulsando un botón.
 
 ![pizza1](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/1.PNG)
+![pizza2](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/2.PNG)
+![pizza3](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/3.PNG)
+![pizza4](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/4.PNG)
+![pizza5](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/5.PNG)
+![pizza6](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/6.PNG)
+![pizza7](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/7.PNG)
+![pizza8](https://github.com/AlexFabra/PizzaMaula/blob/main/Capturas%20PizzaMaula/8.PNG)
